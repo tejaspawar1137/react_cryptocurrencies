@@ -1,0 +1,4 @@
+ make components 
+create navbar 
+create routing in app 
+and then create homepage
